@@ -5,8 +5,11 @@ TECHNOLOGY AND MANAGEMENT, LUCKNOW.
  Also,I'm try to improve problem-solving skills through Data Structures and Algorithms.
  
 - 📫 How to reach me ...
+- 
 https://www.linkedin.com/in/mohd-asim-2bba8318b/
+
 https://leetcode.com/critical_thinker2808/
+
 https://www.codechef.com/users/md_asim
 <!---
 mdasim2882/mdasim2882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

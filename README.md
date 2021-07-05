@@ -2,7 +2,7 @@
 TECHNOLOGY AND MANAGEMENT, LUCKNOW.
 - 👀 I’m interested in Android Development and Software Engineering.
 - 🌱 I’m currently learning Android Devolopment using JAVA, XML and PHP.
- Also,I'm try to improve problem-solving skills through Data Structures and Algorithms.
+ Also,I'm trying to improve my problem-solving skills through Data Structures and Algorithms.
  
 - 📫 How to reach me ...
 - 

@@ -10,8 +10,6 @@ https://www.linkedin.com/in/mohd-asim-2bba8318b/
 
 https://leetcode.com/critical_thinker2808/
 
-https://www.codechef.com/users/md_asim
-
 https://stackoverflow.com/users/13661219/mohd-asim
 
 <!---

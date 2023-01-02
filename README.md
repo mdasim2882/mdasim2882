@@ -5,7 +5,7 @@ TECHNOLOGY AND MANAGEMENT, LUCKNOW.
  Also,I'm trying to improve my problem-solving skills through Data Structures and Algorithms.
  
 - 📫 How to reach me ...
-- 
+
 https://www.linkedin.com/in/mohd-asim-2bba8318b/
 
 https://leetcode.com/critical_thinker2808/
